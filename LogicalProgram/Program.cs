@@ -6,8 +6,8 @@ namespace LogicalProgram
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("-----  Logical Programming  -----\n----->  Prime Numbers  <-----");
-            Prime prime = new Prime();
+            Console.WriteLine("-----  Logical Programming  -----\n----->  Reverse a Number  <-----");
+            Reverse prime = new Reverse();
             prime.Nos();
         }
     }
