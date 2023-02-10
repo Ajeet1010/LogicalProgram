@@ -2,13 +2,13 @@
 
 namespace LogicalProgram
 {
-    internal class Program
+    internal class Programfd
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("-----  Logical Programming  -----\n----->  Reverse a Number  <-----");
-            Perfect prime = new Perfect();
-            prime.Nos();
+            Console.WriteLine("-----  Logical Programming  -----\n----->  Coupon No  <-----");
+            Coupon coupon = new Coupon();
+            coupon.No();
         }
     }
 }
